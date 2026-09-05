@@ -1,6 +1,10 @@
 # Vijay Chamakuri
 
-Senior data analyst with an M.S. in Data Science from Indiana University. I build reproducible analytics systems that connect data engineering, statistical analysis, machine learning, and decision-focused reporting.
+I live in graphs, think in loops, and breathe pipelines.
+
+I use AI agents as force multipliers to explore faster, automate repetitive work, and build complete systems from raw ideas to working products. Agents may accelerate the code, but I own the problem, architecture, judgment, quality, and outcome.
+
+My work sits at the intersection of agentic software, data engineering, analytics, and applied machine learning. I enjoy turning ambiguous problems into reliable pipelines, intelligent workflows, useful interfaces, and systems that people can trust.
 
 My work emphasizes traceable metrics, honest treatment of synthetic data, time-aware evaluation, and documentation that lets another analyst reproduce the result.
 
