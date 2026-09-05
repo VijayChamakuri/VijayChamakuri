@@ -34,5 +34,4 @@ My work emphasizes traceable metrics, honest treatment of synthetic data, time-a
 - Treat tests, provenance, limitations, and reproducibility as part of the deliverable.
 
 ## Connect
-
-[Portfolio](https://vijaychamakuri.github.io/) | [LinkedIn](https://www.linkedin.com/in/vijaychamakuri/)
+ [LinkedIn](https://www.linkedin.com/in/vijaychamakuri/)
