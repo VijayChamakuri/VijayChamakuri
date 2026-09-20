@@ -1,5 +1,28 @@
 # Vijay Chamakuri
 
+Data and BI analyst with a master's in data science from Indiana University. I build tested, reproducible analysis for revenue, healthcare utilization, and care-gap decisions using SQL, Python, Tableau, Excel, dbt, and DuckDB.
+
+My portfolio separates measured, public, simulated, and synthetic data; defines metrics before visualization; and ties reported numbers back to tested analytical outputs.
+
+[LinkedIn](https://www.linkedin.com/in/vijaychamakuri/) · [Tableau Public](https://public.tableau.com/app/profile/vijay.chamakuri/vizzes)
+
+## Featured analyst work
+
+| Project | Role signal | What to open first | Evidence |
+|---|---|---|---|
+| [SaaS Revenue Intelligence](https://github.com/VijayChamakuri/saas-revenue-intelligence) | Data / BI / revenue analytics | [Tableau Public](https://public.tableau.com/app/profile/vijay.chamakuri/viz/SaaSRevenueIntelligenceMRRRetentionBillingControls/Executiveoverview) | Governed MRR and retention metrics, dbt/DuckDB models, reconciliation, tests, Excel and Tableau artifacts; synthetic data is labeled |
+| [Medicare Claims Utilization, Payment & Quality](https://github.com/VijayChamakuri/medicare-claims-utilization-cost-quality) | Healthcare / BI analytics | [Tableau Public](https://public.tableau.com/app/profile/vijay.chamakuri/viz/MedicareClaimsUtilizationPaymentQualityAnalyticsCMSDE-SynPUF/ExecutiveOverview) | CMS DE-SynPUF synthetic claims, SQL star schema, governed KPI contract, dbt tests, Excel review and Tableau dashboards |
+| [Diabetes Care Gaps & Diagnostic Equity](https://github.com/VijayChamakuri/diabetes-care-gaps-diagnostic-equity) | Healthcare / data analytics | [HTML dashboard](https://github.com/VijayChamakuri/diabetes-care-gaps-diagnostic-equity/blob/main/dashboard/screenshots/01_care_gap_overview.png) | Survey-weighted NHANES analysis, SQL cohort construction, Python/R cross-checks, tested outputs and explicit limitations |
+
+## Role map
+
+- **Data Analyst:** SQL analysis, reproducible Python/R workflows, validation, and decision-focused reporting.
+- **Healthcare Analyst:** claims utilization and care-gap analysis with clear definitions, privacy boundaries, and domain limitations.
+- **BI Analyst:** governed KPIs, dimensional models, reconciliation, Tableau dashboards, and Excel review artifacts.
+- **Business Analyst:** business questions translated into documented metrics, stakeholder-ready outputs, acceptance checks, and decision logs.
+
+## Engineering approach
+
 I live in graphs, think in loops, and breathe pipelines.
 
 I use AI agents as force multipliers to explore faster, automate repetitive work, and build complete systems from raw ideas to working products. Agents may accelerate the code, but I own the problem, architecture, judgment, quality, and outcome.
@@ -8,7 +31,7 @@ My work sits at the intersection of agentic software, data engineering, analytic
 
 My work emphasizes traceable metrics, honest treatment of synthetic data, time-aware evaluation, and documentation that lets another analyst reproduce the result.
 
-## Featured work
+## Additional projects
 
 | Project | What it demonstrates | Evidence available in the repository |
 |---|---|---|
@@ -35,3 +58,5 @@ My work emphasizes traceable metrics, honest treatment of synthetic data, time-a
 
 ## Connect
  [LinkedIn](https://www.linkedin.com/in/vijaychamakuri/)
+
+Last portfolio review: September 2026
