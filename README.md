@@ -1,35 +1,40 @@
 # Vijay Chamakuri
 
-Data and BI analyst with a master's in data science from Indiana University. I build tested, reproducible analysis for revenue, healthcare utilization, and care-gap decisions using SQL, Python, Tableau, Excel, dbt, and DuckDB.
+I live in graphs, think in loops, and breathe pipelines.
 
-My portfolio separates measured, public, simulated, and synthetic data; defines metrics before visualization; and ties reported numbers back to tested analytical outputs.
+I build applied-AI systems where the language model does the part it is good at and deterministic code does the part that has to be right, and data systems where every published number traces back to a test. TypeScript and Python, agents and pipelines, with evaluation and the audit trail treated as part of the product rather than as reporting.
+
+I use AI agents as force multipliers to explore faster, automate repetitive work, and build complete systems from raw ideas to working products. Agents may accelerate the code, but I own the problem, architecture, judgment, quality, and outcome.
 
 [LinkedIn](https://www.linkedin.com/in/vijaychamakuri/) · [Tableau Public](https://public.tableau.com/app/profile/vijay.chamakuri/vizzes)
 
-## Featured analyst work
+## Featured work
 
-| Project | Role signal | What to open first | Evidence |
+| Project | What it is | What to open first | Engineering evidence |
 |---|---|---|---|
-| [SaaS Revenue Intelligence](https://github.com/VijayChamakuri/saas-revenue-intelligence) | Data / BI / revenue analytics | [Tableau Public](https://public.tableau.com/app/profile/vijay.chamakuri/viz/SaaSRevenueIntelligenceMRRRetentionBillingControls/Executiveoverview) | Governed MRR and retention metrics, dbt/DuckDB models, reconciliation, tests, Excel and Tableau artifacts; synthetic data is labeled |
-| [Medicare Claims Utilization, Payment & Quality](https://github.com/VijayChamakuri/medicare-claims-utilization-cost-quality) | Healthcare / BI analytics | [Tableau Public](https://public.tableau.com/app/profile/vijay.chamakuri/viz/MedicareClaimsUtilizationPaymentQualityAnalyticsCMSDE-SynPUF/ExecutiveOverview) | CMS DE-SynPUF synthetic claims, SQL star schema, governed KPI contract, dbt tests, Excel review and Tableau dashboards |
-| [Diabetes Care Gaps & Diagnostic Equity](https://github.com/VijayChamakuri/diabetes-care-gaps-diagnostic-equity) | Healthcare / data analytics | [HTML dashboard](https://github.com/VijayChamakuri/diabetes-care-gaps-diagnostic-equity/blob/main/dashboard/screenshots/01_care_gap_overview.png) | Survey-weighted NHANES analysis, SQL cohort construction, Python/R cross-checks, tested outputs and explicit limitations |
+| **RecruitOS** (private repository) | An agentic recruiting control plane built on one rule: the model may only extract verbatim, citation-grounded evidence from candidate documents, and deterministic code evaluates it against a locked rubric, routes uncertainty into human resolution tasks, and records every event in an append-only ledger. | Private, walkthrough on request | Ungrounded quotes are rejected rather than scored; exact rational arithmetic instead of float scores, shown as a decomposition table; five review workspaces including an audit timeline and a trust center; strict TypeScript with architecture-boundary, dynamic-code and browser-bundle gates; unit, property, integration and Playwright end-to-end suites |
+| [Checkpoint](https://github.com/VijayChamakuri/checkpoint) | An integration layer that lets an agent drive a legacy back-office web application that has no API: the model discovers how to reach a goal once, and that capability is replayed deterministically afterwards with no model in the loop. | [`REPORT.md`](https://github.com/VijayChamakuri/checkpoint/blob/main/REPORT.md) | Typed, versioned, parameterized capability artifacts; deterministic replay; a real human-escalation path when replay gets stuck; TypeScript, Playwright, vitest |
+| [SaaS Revenue Intelligence](https://github.com/VijayChamakuri/saas-revenue-intelligence) | A revenue analytics system that reconciles MRR, finds billing defects and scores churn risk, with every dashboard number tied back to the warehouse. | [Tableau Public](https://public.tableau.com/app/profile/vijay.chamakuri/viz/SaaSRevenueIntelligenceMRRRetentionBillingControls/Executiveoverview) | dbt/DuckDB models, a governed metric contract validated against the marts, extract-to-mart tie-out before publication, CI on two Python versions; synthetic data is labeled |
+| [Medicare Claims Utilization, Payment & Quality](https://github.com/VijayChamakuri/medicare-claims-utilization-cost-quality) | CMS synthetic claims turned into a tested star schema with governed KPIs and published dashboards. | [Tableau Public](https://public.tableau.com/app/profile/vijay.chamakuri/viz/MedicareClaimsUtilizationPaymentQualityAnalyticsCMSDE-SynPUF/ExecutiveOverview) | SQL star schema with a dbt layer, blocking reconciliation that stops the build, independent recomputation in pandas, identifier guards on every export |
+| [Diabetes Care Gaps & Diagnostic Equity](https://github.com/VijayChamakuri/diabetes-care-gaps-diagnostic-equity) | Survey-weighted NHANES analysis of the undiagnosed diabetes gap and of what changes when the training label changes. | [HTML dashboard](https://github.com/VijayChamakuri/diabetes-care-gaps-diagnostic-equity/blob/main/dashboard/screenshots/01_care_gap_overview.png) | SQL cohort construction, Python and R cross-checks, pre-specified comparison, limitations stated in the first screen |
 
-## Role map
+## How I build
+
+My work sits at the intersection of agentic software, data engineering, analytics, and applied machine learning. I enjoy turning ambiguous problems into reliable pipelines, intelligent workflows, useful interfaces, and systems that people can trust.
+
+My work emphasizes traceable metrics, honest treatment of synthetic data, time-aware evaluation, and documentation that lets another analyst reproduce the result.
+
+My portfolio separates measured, public, simulated, and synthetic data; defines metrics before visualization; and ties reported numbers back to tested analytical outputs.
+
+## Where this work applies
+
+Master's in data science, Indiana University. The same standards travel across the roles this portfolio speaks to:
 
 - **Data Analyst:** SQL analysis, reproducible Python/R workflows, validation, and decision-focused reporting.
 - **Healthcare Analyst:** claims utilization and care-gap analysis with clear definitions, privacy boundaries, and domain limitations.
 - **BI Analyst:** governed KPIs, dimensional models, reconciliation, Tableau dashboards, and Excel review artifacts.
 - **Business Analyst:** business questions translated into documented metrics, stakeholder-ready outputs, acceptance checks, and decision logs.
-
-## Engineering approach
-
-I live in graphs, think in loops, and breathe pipelines.
-
-I use AI agents as force multipliers to explore faster, automate repetitive work, and build complete systems from raw ideas to working products. Agents may accelerate the code, but I own the problem, architecture, judgment, quality, and outcome.
-
-My work sits at the intersection of agentic software, data engineering, analytics, and applied machine learning. I enjoy turning ambiguous problems into reliable pipelines, intelligent workflows, useful interfaces, and systems that people can trust.
-
-My work emphasizes traceable metrics, honest treatment of synthetic data, time-aware evaluation, and documentation that lets another analyst reproduce the result.
+- **Applied AI and software engineering:** agent architectures with deterministic boundaries, evaluation harnesses, typed interfaces, human-in-the-loop escalation, and tests that run in CI.
 
 ## Additional projects
 

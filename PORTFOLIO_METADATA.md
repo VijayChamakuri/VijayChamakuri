@@ -6,7 +6,7 @@ Approved public metadata for every repository on this account, recorded so a lat
 
 | Field | Value |
 |---|---|
-| Bio | `Data & BI Analyst \| Healthcare and Revenue Analytics \| SQL, Python, Tableau, Excel, dbt` |
+| Bio | `Applied AI & Data Engineering \| Agentic systems, LLM evaluation, analytics pipelines \| Python, TypeScript, SQL` |
 | Location | Indiana |
 | Website | https://public.tableau.com/app/profile/vijay.chamakuri/vizzes |
 | Available for hire | yes |
@@ -24,14 +24,18 @@ Two workbooks are published. No other repository has a Tableau workbook, and non
 
 ## Pin order
 
-1. `saas-revenue-intelligence`
-2. `medicare-claims-utilization-cost-quality`
-3. `diabetes-care-gaps-diagnostic-equity`
-4. `crm-pipeline-analysis`
-5. `creator-pulse`
-6. `pfas-toxicogenomics-kspaces`
+1. `checkpoint`
+2. `saas-revenue-intelligence`
+3. `medicare-claims-utilization-cost-quality`
+4. `cloud-asset-discovery-pipeline`
+5. `diabetes-care-gaps-diagnostic-equity`
+6. `creator-pulse`
 
-GitHub has no API for pinning, so this order is set by hand from the profile page.
+GitHub has no API for pinning, so this order is set by hand from the profile page. It opens with agentic and data-engineering work and keeps the two published Tableau projects high, so an applied-AI or software reviewer and an analytics reviewer both land on something relevant. `recruitos` is private and cannot serve as a public pin.
+
+## Private repository
+
+`recruitos` stays private. Its description is now accurate rather than a placeholder: explainable agentic recruiting where the model extracts verbatim, citation-grounded evidence and deterministic code scores it against a locked rubric, with human escalation and an append-only audit ledger. It is featured in the profile README by name, with no link.
 
 ## Repositories
 

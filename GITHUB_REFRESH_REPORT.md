@@ -6,12 +6,14 @@ A recruiter-facing pass over the account: profile text, repository metadata and 
 
 | Field | Before | After |
 |---|---|---|
-| Bio | Analytics Engineering, Applied ML, and Reproducible Data Science | Data & BI Analyst \| Healthcare and Revenue Analytics \| SQL, Python, Tableau, Excel, dbt |
+| Bio | Analytics Engineering, Applied ML, and Reproducible Data Science | Applied AI & Data Engineering \| Agentic systems, LLM evaluation, analytics pipelines \| Python, TypeScript, SQL |
 | Website | empty | Tableau Public profile |
 | Available for hire | not set | yes |
 | Location | Indiana | Indiana (unchanged) |
 
-`README.md` now opens with the analyst summary, a featured table of the three flagships with what to open first in each, and a role map for Data, Healthcare, BI and Business Analyst work. The previous opening paragraphs were moved below it under `Engineering approach`, and the previous featured table is kept in full under `Additional projects`. The honesty and reproducibility principles are unchanged.
+`README.md` opens with the engineering framing, then a featured table of five projects: RecruitOS and Checkpoint for agentic and applied-AI work, and the three analytics flagships with their published dashboards. Each row says what the project is, what to open first, and the engineering evidence behind it. `How I build` and `Where this work applies` carry the earlier paragraphs and the role bullets, with a line added for applied AI and software engineering. The previous featured table is kept in full under `Additional projects`, and the honesty and reproducibility principles are unchanged.
+
+RecruitOS is a private repository and is named without a link. Its GitHub description was changed from a placeholder to what it actually does. Nothing private was published.
 
 ## Repository changes
 
@@ -45,7 +47,7 @@ All 21 public repositories now have a description. Approved values are recorded 
 
 ## Still to do by hand
 
-1. **Pins.** GitHub exposes no API for pinning, so the six pins must be set from the profile page: `Customize your pins`, then choose, in this order, `saas-revenue-intelligence`, `medicare-claims-utilization-cost-quality`, `diabetes-care-gaps-diagnostic-equity`, `crm-pipeline-analysis`, `creator-pulse`, `pfas-toxicogenomics-kspaces`. Pinning only changes what is shown; the previous pins stay on the account.
+1. **Pins.** GitHub exposes no API for pinning, so the six pins must be set from the profile page: `Customize your pins`, then choose, in this order, `checkpoint`, `saas-revenue-intelligence`, `medicare-claims-utilization-cost-quality`, `cloud-asset-discovery-pipeline`, `diabetes-care-gaps-diagnostic-equity`, `creator-pulse`. Pinning only changes what is shown; the previous pins stay on the account.
 2. **Social previews.** Three 1280x640 images were produced for the flagships, each using that project's own chart with the project title, a role label, the name, and a data-provenance label. None of the three repositories has a custom preview today, so nothing would be overwritten. They are set per repository under `Settings > General > Social preview > Upload an image`.
 
 ## Claims that were rejected for lack of evidence
